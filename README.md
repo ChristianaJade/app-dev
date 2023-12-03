@@ -5,7 +5,7 @@ My first repository
 2. Scarlet Heart
 3. Encantadia
 
-# **Diary ng Panget**
-1. Narnia
+# **My favorite Movie**
+1. Diary ng Panget
 2. Nanny McPhee
 3. Tinkerbell
